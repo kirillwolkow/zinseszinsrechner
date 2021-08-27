@@ -2,6 +2,7 @@
 
 - Created a program to calculate compound interest
 - The code is working on the command line
+- You can find a short article on medium: https://medium.com/@kirillwolkow/compound-interest-calculator-c50b27113145
 
 ## Code and Resources Used
 Python Version: 3.9.6
